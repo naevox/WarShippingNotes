@@ -21,3 +21,4 @@ Test 1 (Automation attempt)
 - file .csv contains wireless points caught in monitor mode
 - cat *.csv | grep -i wep | cut -d ',' -f 1
   - above bash oneliner isolates the bssid of each access point
+  
