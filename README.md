@@ -15,3 +15,9 @@ on another tab:
 Test 0 (Manual attack)
 - manual testing worked, arp poisoning aided but not required with active network.
 - one terminal window required unless arp poisoning required.
+
+Test 1 (Automation attempt)
+- airodump-ng <mon card> -w <write to> file
+- file .csv contains wireless points caught in monitor mode
+- cat *.csv | grep -i wep | cut -d ',' -f 1
+  - above bash oneliner isolates the bssid of each access point
