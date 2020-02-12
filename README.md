@@ -23,4 +23,7 @@ Test 1 (Automation attempt)
   - above bash oneliner isolates the bssid of each access point
   
 WPA2 (KRACK attack)
-- 
+- https://github.com/vanhoefm/krackattacks-scripts
+- script above is for testing krack attack vulnerability instead of attacking the Wi-Fi security.
+
+When GPS location has been reached the device will instead of attacking all networks will scan them for vulnerabilities.
