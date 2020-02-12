@@ -22,3 +22,5 @@ Test 1 (Automation attempt)
 - cat *.csv | grep -i wep | cut -d ',' -f 1
   - above bash oneliner isolates the bssid of each access point
   
+WPA2 (KRACK attack)
+- 
