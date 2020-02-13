@@ -27,3 +27,5 @@ WPA2 (KRACK attack)
 - script above is for testing krack attack vulnerability instead of attacking the Wi-Fi security.
 
 When GPS location has been reached the device will instead of attacking all networks will scan them for vulnerabilities.
+https://www.youtube.com/watch?v=N8fH0nc9v9Q
+https://sparklers-the-makers.github.io/blog/robotics/use-neo-6m-module-with-raspberry-pi/
