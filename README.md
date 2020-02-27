@@ -29,3 +29,11 @@ WPA2 (KRACK attack)
 When GPS location has been reached the device will instead of attacking all networks will scan them for vulnerabilities.
 https://www.youtube.com/watch?v=N8fH0nc9v9Q
 https://sparklers-the-makers.github.io/blog/robotics/use-neo-6m-module-with-raspberry-pi/
+
+
+Apt update
+Apt dist-upgrade
+Apt-get install reaver
+Apt-get install wash
+Apt-get install aircrack-ng
+Git clone https://github.com/vanhoefm/krackattacks-scripts
