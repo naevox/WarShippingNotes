@@ -37,4 +37,3 @@ Apt-get install reaver
 Apt-get install wash
 Apt-get install aircrack-ng
 Git clone https://github.com/vanhoefm/krackattacks-scripts
- 
